@@ -2,7 +2,7 @@
 projet 2019-2020 : gestionnaire de QCM
 ===============================================
 
-* NOM Prénom : Bouiflane Maryam 
+NOM Prénom : Bouiflane Maryam 
 
 Fonctionnalités obligatoires
 ----------------------------
